@@ -40,7 +40,7 @@ p {
 h4 {
     font-size: 26px;
     font-weight: 700;
-    color: #fff;
+    color: #6D6E71;
     letter-spacing: 0.25px;
 }
 
@@ -117,7 +117,7 @@ html {
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background: #000000;
+    background: #6D6E71;
     color: #FFC600;
 }
 
@@ -145,7 +145,7 @@ html {
 .menu .author-content span {
     font-size: 13px;
     font-style: normal;
-    color: #fff;
+    color: #6D6E71;
 }
 
 .menu .social-network {
