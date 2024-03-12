@@ -40,7 +40,7 @@ p {
 h4 {
     font-size: 26px;
     font-weight: 700;
-    color: #6D6E71;
+    color: #fff;
     letter-spacing: 0.25px;
 }
 
@@ -109,7 +109,7 @@ html {
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #44;
+    color: #fff;
     width: 100%;
     transition: all 0.5s;
     border-top: 2px solid #fff;
@@ -143,9 +143,9 @@ html {
 }
 
 .menu .author-content span {
-    font-size: 13px;
+    font-size: 14px;
     font-style: normal;
-    color: #6D6E71;
+    color: #fff;
 }
 
 .menu .social-network {
